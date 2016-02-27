@@ -1,5 +1,5 @@
 #! /usr/bin/env python je suis landelin
-# -*- coding: Latin-1 -*-
+# -*- coding: Latin-1 -*- et je test des choses
 
 # Définition d'un client réseau rudimentaire
 # Ce client dialogue avec un serveur ad hoc
