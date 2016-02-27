@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#! /usr/bin/env python je suis landelin
 # -*- coding: Latin-1 -*-
 
 # Définition d'un client réseau rudimentaire
